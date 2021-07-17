@@ -1,5 +1,13 @@
-#include<stdio.h>
-#include<glut.h>
+name:Fardin Hasan
+id 18-39007-3
+
+
+
+
+
+
+
+#include<  glut.h>
 #include<math.h>
 #include <stdlib.h>
 # define M_PI 3.142
